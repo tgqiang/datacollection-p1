@@ -1,4 +1,4 @@
-import { AssessmentRecord } from "@/generated/prisma";
+import { AssessmentRecord } from "@/../generated/prisma";
 import { AssessmentRecordDataOperationResponse } from "@/pages/api/record";
 
 // eslint-disable-next-line  @typescript-eslint/no-explicit-any

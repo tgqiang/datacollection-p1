@@ -1,5 +1,5 @@
 import { NextApiRequest, NextApiResponse } from "next";
-import { AssessmentRecord } from "../../generated/prisma";
+import { AssessmentRecord } from "@/../generated/prisma";
 import prisma from "@/services/database";
 import {
   AssessmentRecordPermittedFilters,
